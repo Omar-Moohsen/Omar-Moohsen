@@ -86,11 +86,11 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar-mohsen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-Moohsen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-mohsen&theme=transparent&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omar-Moohsen&theme=transparent&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-mohsen&layout=compact&theme=transparent&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Moohsen&layout=compact&theme=transparent&hide_border=false)
 
 ## ✍️ Random Dev Quote
 
@@ -98,6 +98,6 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omar-mohsen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Omar-Moohsen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
