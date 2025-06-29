@@ -1,5 +1,22 @@
-# Omar_Mohsen
-👋 Hi there, I'm Omar
+# 👋 Hi there, I'm Omar
+### 🔭 I’m currently a university student passionate about AI and NLP.
+### 🌱 I’m currently learning FastAPI and improving my Software Engineering skills
+### 💻 Skilled in Python, Machine Learning, NLP, and basic FastAPI
+### 👨‍💻 All of my projects are available on my GitHub profile
+### 📫 Reach me at: omar1mohsen23@gamil.com
+### ⚡ Fun fact: I enjoy solving problems and building intelligent systems
+
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
+
+
 ## 💻 Tech Stack
 
 ---
@@ -66,3 +83,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar-mohsen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-mohsen&theme=transparent&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-mohsen&layout=compact&theme=transparent&hide_border=false)
+
+## ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omar-mohsen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
