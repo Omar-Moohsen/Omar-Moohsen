@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Omar
 ### 🔭 I’m currently a university student passionate about AI and NLP.
-### 🌱 I’m currently learning FastAPI and improving my Software Engineering skills
-### 💻 Skilled in Python, Machine Learning, NLP, and basic FastAPI
+### 💻 Skilled in Python, Machine Learning, NLP,
 ### 👨‍💻 All of my projects are available on my GitHub profile
 ### 📫 Reach me at: omar1mohsen23@gamil.com
 ### ⚡ Fun fact: I enjoy solving problems and building intelligent systems
